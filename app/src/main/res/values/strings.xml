@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Events</string>
+    <string name="add_event">Add Event</string>
+    <string name="new_event">New Event</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_date">Event Date</string>
+    <string name="event_desc">Event Description</string>
+    <string name="set_date">Set Date</string>
+    <string name="done">Done</string>
+    <string name="date_sep">/</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="edit_event">Edit Event</string>
+
+</resources>
